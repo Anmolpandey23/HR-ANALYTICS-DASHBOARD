@@ -36,7 +36,7 @@ This Tableau dashboard answers the following key business questions:
 **8.** How satisfied are employees in different job roles?
 
 **9.** What is the attrition count by gender?
- - <a href= "https://github.com/Anmolpandey23/HR-ANALYTICS-DASHBOARD/blob/main/HR%20DASHBOARD%20IMAGE.png"> HR DASHBOARD IMAGE </a>
+- <a href= "https://github.com/Anmolpandey23/HR-ANALYTICS-DASHBOARD/blob/main/HR%20DASHBOARD%20IMAGE.png"> HR DASHBOARD IMAGE </a>
 
 ## ⚙️ Process
 The dashboard development followed these steps:
