@@ -56,6 +56,9 @@ The dashboard development followed these steps:
 - Built interactive filters (e.g., education dropdown).
 
 - Created a responsive layout for key insights.
+## Dashboard
+
+<img width="1205" alt="HR DASHBOARD IMAGE" src="https://github.com/user-attachments/assets/72029025-38e2-4756-9cff-5807350cc14d" />
 
 ## 🔍 Project Insights
 - The overall attrition rate is 16.12%, with 237 employees having left the organization.
@@ -74,9 +77,5 @@ The dashboard development followed these steps:
 ## ✅ Final Conclusion
 
 This HR analytics dashboard reveals that attrition is most prevalent in younger age groups and the Sales department, with noticeable differences by gender and education field. Targeted interventions such as mentorship programs, job satisfaction improvements, and better career development in high-attrition areas could significantly reduce turnover.
-
-## Dashboard
-
-<img width="1205" alt="HR DASHBOARD IMAGE" src="https://github.com/user-attachments/assets/72029025-38e2-4756-9cff-5807350cc14d" />
 
 
